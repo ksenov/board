@@ -1,3 +1,6 @@
+Онлайн-приложение для совместной работы, которое позволяет создавать виртуальные доски для записей, планирования и мозговых штурмов. 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
